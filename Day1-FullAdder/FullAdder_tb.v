@@ -1,7 +1,7 @@
 module tb();
   reg a,b,cin;
   wire sum,cout;
-  full_add FA (sum,cout,a,b,cin);
+  full_add inst1 (sum,cout,a,b,cin);
   
   initial begin 
     a=0;b=0;cin=0;
