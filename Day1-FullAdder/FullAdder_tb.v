@@ -16,7 +16,7 @@ module tb();
    
   end
     
- //Dump waves (only required here)
+ //Dump waves 
 initial
   begin
     $dumpfile("dump.vcd");
