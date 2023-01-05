@@ -4,4 +4,4 @@
 | ------------- | ------------- | ------------- |
 | Day1  | FullAdder | https://www.edaplayground.com/x/QRRM |
 | Day2  | RippleCarryAdder(4-bit)  | https://www.edaplayground.com/x/ffLR |
-| Day3  | CarryLookaheadAdder  | -- |
+| Day3  | BetterAdders  | -- |
