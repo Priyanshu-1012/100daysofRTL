@@ -1,8 +1,8 @@
 # 100daysofRTL
  
-| Day | Topic | edaplayground |
+| Day | Topic | edaplayground link|
 | ------------- | ------------- | ------------- |
-| Day1  | FullAdder | https://www.edaplayground.com/x/QRRM |
-| Day2  | RippleCarryAdder(4-bit)  | https://www.edaplayground.com/x/ffLR |
-| Day3  | BetterAdders  | https://www.edaplayground.com/x/G49G and https://www.edaplayground.com/x/F98M |
+| Day1  | FullAdder | [click here](https://www.edaplayground.com/x/QRRM) |
+| Day2  | RippleCarryAdder(4-bit)  | [click here](https://www.edaplayground.com/x/ffLR) |
+| Day3  | BetterAdders  | [click here](https://www.edaplayground.com/x/G49G) and [here](https://www.edaplayground.com/x/F98M) |
                    
